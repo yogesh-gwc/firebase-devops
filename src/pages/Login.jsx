@@ -83,7 +83,7 @@ const Login = () => {
         </div>
 
         <div className="login-footer">
-          <p>By continuing, you agree to our Terms of Service test1</p>
+          <p>By continuing, you agree to our Terms of Service test2</p>
         </div>
       </div>
 
